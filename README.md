@@ -1,5 +1,5 @@
 # PRODIGY_CS_04
-# Keylogger Tool ⌨️  
+# Simple Keylogger Tool ⌨️  
 
 A simple Python-based keylogger that records keystrokes and saves them to a file. Built using the `pynput` library, this tool is designed for **educational purposes only** and emphasizes the importance of ethical use and explicit permissions.  
 
