@@ -33,13 +33,13 @@ A simple Python-based keylogger that records keystrokes and saves them to a file
 1. Clone the repository:  
 
     ```bash  
-    git clone https://github.com/your-username/keylogger-tool.git  
+    git clone https://github.com/KashifMalik777/PRODIGY_CS_04.git  
     ```  
 
 2. Navigate to the project directory:  
 
     ```bash  
-    cd keylogger-tool  
+    cd PRODIGY_CS_04-main  
     ```  
 
 3. Install the required Python package:  
